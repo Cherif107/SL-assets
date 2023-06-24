@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="texture.png" width="345" height="1899">
+  <SubTexture name="g0000.png" x="0" y="0"  width="69" height="211" frameX="-6" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0029.png" x="0" y="211"  width="69" height="211" frameX="-5" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0013.png" x="0" y="422"  width="68" height="211" frameX="-0" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0014.png" x="0" y="633"  width="68" height="211" frameX="-0" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0028.png" x="0" y="844"  width="68" height="211" frameX="-5" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0001.png" x="0" y="1055"  width="66" height="211" frameX="-9" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0012.png" x="0" y="1266"  width="66" height="211" frameX="-1" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0015.png" x="0" y="1477"  width="66" height="211" frameX="-0" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0027.png" x="0" y="1688"  width="66" height="211" frameX="-6" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0002.png" x="66" y="1055"  width="64" height="211" frameX="-11" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0003.png" x="68" y="422"  width="64" height="211" frameX="-10" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0016.png" x="130" y="0"  width="63" height="211" frameX="-0" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0011.png" x="69" y="0"  width="61" height="211" frameX="-4" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0018.png" x="69" y="211"  width="63" height="211" frameX="-0" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0017.png" x="68" y="633"  width="62" height="211" frameX="-0" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0026.png" x="68" y="844"  width="62" height="211" frameX="-8" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0019.png" x="66" y="1266"  width="61" height="211" frameX="-2" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0004.png" x="66" y="1477"  width="60" height="211" frameX="-10" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0020.png" x="66" y="1688"  width="58" height="211" frameX="-6" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0005.png" x="124" y="1688"  width="56" height="211" frameX="-9" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0007.png" x="126" y="1477"  width="55" height="211" frameX="-8" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0008.png" x="181" y="1477"  width="55" height="211" frameX="-7" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0009.png" x="236" y="1477"  width="55" height="211" frameX="-7" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0010.png" x="127" y="1266"  width="55" height="211" frameX="-7" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0021.png" x="180" y="1688"  width="55" height="211" frameX="-9" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0022.png" x="235" y="1688"  width="55" height="211" frameX="-10" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0023.png" x="290" y="1688"  width="55" height="211" frameX="-11" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0024.png" x="130" y="633"  width="55" height="211" frameX="-11" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0025.png" x="182" y="211"  width="55" height="211" frameX="-11" frameY="-11" frameWidth="75" frameHeight="225"/>
+  <SubTexture name="g0006.png" x="193" y="0"  width="54" height="211" frameX="-9" frameY="-11" frameWidth="75" frameHeight="225"/>
+</TextureAtlas>
